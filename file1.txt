@@ -1,2 +1,3 @@
 halo ini file1.txt
 tambah satu baris
+satu
