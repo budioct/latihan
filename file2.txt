@@ -1,1 +1,2 @@
 halo ini file2.txt
+tambah satu baris
