@@ -1,0 +1,2 @@
+halo ini file4.txt
+tambah satu baris
